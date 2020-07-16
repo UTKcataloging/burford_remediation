@@ -52,11 +52,6 @@
    <location>
       <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee Knoxville. Special Collections</physicalLocation>
    </location>
-   <relatedItem displayLabel="Project" type="host">
-      <titleInfo>
-         <title>Ramsey Family Letters</title>
-      </titleInfo>
-   </relatedItem>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>David Burford Papers</title>
@@ -65,4 +60,9 @@
    </relatedItem>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>David Burford Letters</title>
+      </titleInfo>
+   </relatedItem>
 </mods>

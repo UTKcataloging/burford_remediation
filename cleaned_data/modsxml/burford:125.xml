@@ -6,21 +6,13 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_000115_000261_0000</identifier>
    <titleInfo>
-      <title>Letter, in 1813 Nov. 26</title>
+      <title>Receipt, Captain Alpha Kingsley to David Burford in Nashville, Tenn., 1813 Nov. 26</title>
    </titleInfo>
+   <abstract>Receipt of $240 for bounties, premiums, and advances of pay.</abstract>
    <originInfo>
       <dateCreated>1813 Nov. 26</dateCreated>
       <dateCreated encoding="edtf">1813-11-26</dateCreated>
    </originInfo>
-   <subject>
-      <topic>Slave trade -- Southern States</topic>
-   </subject>
-   <subject>
-      <topic>Slavery -- Tennessee</topic>
-   </subject>
-   <subject>
-      <topic>Slavery -- Virginia</topic>
-   </subject>
    <subject>
       <topic>Tennessee. Militia</topic>
    </subject>
@@ -40,17 +32,12 @@
       <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
    </recordInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027573">receipts (financial records)</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028569">manuscripts (documents)</form>
    </physicalDescription>
    <location>
       <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee Knoxville. Special Collections</physicalLocation>
    </location>
-   <relatedItem displayLabel="Project" type="host">
-      <titleInfo>
-         <title>Ramsey Family Letters</title>
-      </titleInfo>
-   </relatedItem>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>David Burford Papers</title>
@@ -59,4 +46,9 @@
    </relatedItem>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>David Burford Letters</title>
+      </titleInfo>
+   </relatedItem>
 </mods>
