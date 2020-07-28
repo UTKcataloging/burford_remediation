@@ -6,8 +6,9 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_000115_000259_0000</identifier>
    <titleInfo>
-      <title>Letter, in 1829 Oct. 29</title>
+      <title>Letter, JM Saunders to David Burford in 1829 Oct. 29</title>
    </titleInfo>
+   <abstract>A letter discussing the transport of 14 slaves.</abstract>
    <originInfo>
       <dateCreated>1829 Oct. 29</dateCreated>
       <dateCreated encoding="edtf">1829-10-29</dateCreated>
@@ -23,9 +24,6 @@
    </subject>
    <subject>
       <topic>Tennessee. Militia</topic>
-   </subject>
-   <subject>
-      <topic>United States -- History -- War of 1812</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <language>

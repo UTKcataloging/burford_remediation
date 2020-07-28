@@ -6,8 +6,9 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_000115_000260_0000</identifier>
    <titleInfo>
-      <title>Letter, in 1819 Nov. 22</title>
+      <title>Contract of partnership between Robert Allen and David Burford dated 1819 Nov. 22</title>
    </titleInfo>
+   <abstract>Contract between Robert Allen and David Burford indicating the beginning of a 4 year long business partnership.</abstract>
    <originInfo>
       <dateCreated>1819 Nov. 22</dateCreated>
       <dateCreated encoding="edtf">1819-11-22</dateCreated>
@@ -23,9 +24,6 @@
    </subject>
    <subject>
       <topic>Tennessee. Militia</topic>
-   </subject>
-   <subject>
-      <topic>United States -- History -- War of 1812</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <language>
