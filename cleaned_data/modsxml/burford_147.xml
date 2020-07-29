@@ -6,8 +6,9 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_000115_000255_0000</identifier>
    <titleInfo>
-      <title>Letter, in 1828 Aug. 09</title>
+      <title>Articles of Agreement dated 1828 Aug. 09</title>
    </titleInfo>
+   <abstract>Contract listing the agreed upon terms for an exchange of land.</abstract>
    <originInfo>
       <dateCreated>1828 Aug. 09</dateCreated>
       <dateCreated encoding="edtf">1828-08-09</dateCreated>
@@ -23,9 +24,6 @@
    </subject>
    <subject>
       <topic>Tennessee. Militia</topic>
-   </subject>
-   <subject>
-      <topic>United States -- History -- War of 1812</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <language>

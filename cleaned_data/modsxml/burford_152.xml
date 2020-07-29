@@ -6,8 +6,9 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_000115_000254_0000</identifier>
    <titleInfo>
-      <title>Letter, in 1829 July 11</title>
+      <title>Letter, Wilson L. Ramsey to David Burford in 1829 July 11</title>
    </titleInfo>
+   <abstract>A letter documenting the sale of cherry plank and scantling to David Burford.</abstract>
    <originInfo>
       <dateCreated>1829 July 11</dateCreated>
       <dateCreated encoding="edtf">1829-07-11</dateCreated>
@@ -23,9 +24,6 @@
    </subject>
    <subject>
       <topic>Tennessee. Militia</topic>
-   </subject>
-   <subject>
-      <topic>United States -- History -- War of 1812</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <language>
