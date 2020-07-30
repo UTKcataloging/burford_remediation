@@ -6,8 +6,9 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_000115_000246_0000</identifier>
    <titleInfo>
-      <title>Letter, in 1824 Mar. 9</title>
+      <title>Deed for sale of land dated 1824 Mar. 9</title>
    </titleInfo>
+   <abstract>Deed for sale of 2 plots of land in Smith County from Nathaniel W. Williams to David Burford.</abstract>
    <originInfo>
       <dateCreated>1824 Mar. 9</dateCreated>
       <dateCreated encoding="edtf">1824-03-09</dateCreated>
@@ -23,9 +24,6 @@
    </subject>
    <subject>
       <topic>Tennessee. Militia</topic>
-   </subject>
-   <subject>
-      <topic>United States -- History -- War of 1812</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <language>
