@@ -13,11 +13,11 @@
       <dateCreated>1835 Sept. 16</dateCreated>
       <dateCreated encoding="edtf">1835-09-16</dateCreated>
    </originInfo>
-   <name type="personal">
-      <namePart>David Burford</namePart>
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020091488">
+      <namePart>Burford, David Morgan, 1791-1864</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+            authorityURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
       </role>
    </name>
    <subject>

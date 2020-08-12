@@ -32,7 +32,6 @@
       <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
    </recordInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027573">receipts (financial records)</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028569">manuscripts (documents)</form>
    </physicalDescription>
    <location>

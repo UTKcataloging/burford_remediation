@@ -13,6 +13,13 @@
       <dateCreated>1823 Jan. 24</dateCreated>
       <dateCreated encoding="edtf">1823-01-24</dateCreated>
    </originInfo>
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020091488">
+      <namePart>Burford, David Morgan, 1791-1864</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+            authorityURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
    <subject>
       <topic>Slave trade -- Southern States</topic>
    </subject>
